@@ -1,4 +1,4 @@
 Test
 ====
-## Secondary Header
-### Tertiary Header
+## Secondary Heading
+### Tertiary Heading
